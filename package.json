@@ -1,0 +1,22 @@
+{
+  "name": "alfredo",
+  "version": "1.0.0",
+  "description": "Mi blog con Nodejs, aprendiendo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alfredynho/BlogNode.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Alfredo Callizaya Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfredynho/BlogNode/issues"
+  },
+  "homepage": "https://github.com/Alfredynho/BlogNode#readme"
+}
